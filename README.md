@@ -1,2 +1,2 @@
 # PraktekGit
-Praktek Git Manpro
+Praktek Git Manajamen Proyek
