@@ -1,1 +1,1 @@
-"ini adalah file2" 
+ini adalah file2 yang sudah diedit
